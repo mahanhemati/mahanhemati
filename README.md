@@ -1,5 +1,7 @@
-### Hi My Friends 👋
-
+ Hi My Friends 👋
+ I'm Mahan Hemati.
+ I'm Iranian ANd I 14 Years Old 
+ I can somewhat use JavaScript
 <!--
 **mahanhemati/mahanhemati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-⚡ Fun fact : Is Not A Bug Is That Feature !
+⚡ Fun fact : Why do programmers prefer dark mode?
+Because light attracts bugs! 🐛💻!
 
-
-// My Expertise
+ My Expertise
 
 
 ---React js
